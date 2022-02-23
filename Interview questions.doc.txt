@@ -1,0 +1,5 @@
+1)What are different types of lists in HTML  and how do you implement them?
+2)How bootstrap grid works behind in css (Media query)
+3)What is the difference between Margin and padding?
+4)What is css flexbox?  
+5)What is CSS opacity?
