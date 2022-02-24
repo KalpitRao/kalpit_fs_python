@@ -3,3 +3,8 @@
 3)What is the difference between Margin and padding?
 4)What is css flexbox?  
 5)What is CSS opacity?
+6)What is block element?
+7)What types of selectors are used in CSS?
+8)What are the available values for property "position"? What happens when you use each value? 
+9)Explain the term responsive web design?  
+10)When click on button u need to scroll to the particular div using HTML
