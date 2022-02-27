@@ -8,3 +8,11 @@
 8)What are the available values for property "position"? What happens when you use each value? 
 9)Explain the term responsive web design?  
 10)When click on button u need to scroll to the particular div using HTML
+11)How can I show two div tag elements side by side?
+12)What is specificity in CSS ?
+13)Difference between Let and Var
+14)What is functional scope and block scope
+15)What is Hoisting?
+16)What is the use of filter, map, reduce ?
+17)Difference between map and for loop 
+18)Difference between slice and splice
