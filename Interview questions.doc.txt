@@ -1,3 +1,4 @@
+Html css---------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 1)What are different types of lists in HTML  and how do you implement them?
 2)How bootstrap grid works behind in css (Media query)
 3)What is the difference between Margin and padding?
@@ -10,9 +11,25 @@
 10)When click on button u need to scroll to the particular div using HTML
 11)How can I show two div tag elements side by side?
 12)What is specificity in CSS ?
+
+Js------>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 13)Difference between Let and Var
 14)What is functional scope and block scope
 15)What is Hoisting?
 16)What is the use of filter, map, reduce ?
 17)Difference between map and for loop 
 18)Difference between slice and splice
+19)Callbacks and promises
+20)Closures
+
+React--------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+21)difference between real dom and virtual react dom
+22)life cycle methods in react--> useEffect ()
+23)what are hooks...useState,useEffect
+24)Prop drilling?
+25)Axios
+
+Redux------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+26)useSelector 
+27)useDispatch
+28)Thunk
